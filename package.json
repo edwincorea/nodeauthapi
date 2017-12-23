@@ -1,0 +1,16 @@
+{
+  "name": "nodeauthapi",
+  "version": "1.0.0",
+  "description": "JWT Example",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint ./**/*.js",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0"
+  }
+}
